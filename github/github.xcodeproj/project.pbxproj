@@ -7,29 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		18EF48371C311D4C005D8A73 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 18EF48361C311D4C005D8A73 /* main.m */; };
-		18EF483A1C311D4C005D8A73 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 18EF48391C311D4C005D8A73 /* AppDelegate.m */; };
-		18EF483D1C311D4C005D8A73 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18EF483C1C311D4C005D8A73 /* ViewController.m */; };
-		18EF48401C311D4C005D8A73 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18EF483E1C311D4C005D8A73 /* Main.storyboard */; };
-		18EF48421C311D4C005D8A73 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18EF48411C311D4C005D8A73 /* Assets.xcassets */; };
-		18EF48451C311D4C005D8A73 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18EF48431C311D4C005D8A73 /* LaunchScreen.storyboard */; };
+		18EF485A1C311E0B005D8A73 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 18EF48591C311E0B005D8A73 /* main.m */; };
+		18EF485D1C311E0B005D8A73 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 18EF485C1C311E0B005D8A73 /* AppDelegate.m */; };
+		18EF48601C311E0B005D8A73 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18EF485F1C311E0B005D8A73 /* ViewController.m */; };
+		18EF48631C311E0B005D8A73 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18EF48611C311E0B005D8A73 /* Main.storyboard */; };
+		18EF48651C311E0B005D8A73 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18EF48641C311E0B005D8A73 /* Assets.xcassets */; };
+		18EF48681C311E0B005D8A73 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18EF48661C311E0B005D8A73 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		18EF48321C311D4C005D8A73 /* github.学恶习.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "github.学恶习.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		18EF48361C311D4C005D8A73 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		18EF48381C311D4C005D8A73 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		18EF48391C311D4C005D8A73 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		18EF483B1C311D4C005D8A73 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		18EF483C1C311D4C005D8A73 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		18EF483F1C311D4C005D8A73 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		18EF48411C311D4C005D8A73 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		18EF48441C311D4C005D8A73 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		18EF48461C311D4C005D8A73 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18EF48551C311E0B005D8A73 /* github.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = github.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		18EF48591C311E0B005D8A73 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		18EF485B1C311E0B005D8A73 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		18EF485C1C311E0B005D8A73 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		18EF485E1C311E0B005D8A73 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		18EF485F1C311E0B005D8A73 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		18EF48621C311E0B005D8A73 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		18EF48641C311E0B005D8A73 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		18EF48671C311E0B005D8A73 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		18EF48691C311E0B005D8A73 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		18EF482F1C311D4C005D8A73 /* Frameworks */ = {
+		18EF48521C311E0B005D8A73 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -39,42 +39,42 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		18EF48291C311D4C005D8A73 = {
+		18EF484C1C311E0B005D8A73 = {
 			isa = PBXGroup;
 			children = (
-				18EF48341C311D4C005D8A73 /* github.学恶习 */,
-				18EF48331C311D4C005D8A73 /* Products */,
+				18EF48571C311E0B005D8A73 /* github */,
+				18EF48561C311E0B005D8A73 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		18EF48331C311D4C005D8A73 /* Products */ = {
+		18EF48561C311E0B005D8A73 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				18EF48321C311D4C005D8A73 /* github.学恶习.app */,
+				18EF48551C311E0B005D8A73 /* github.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		18EF48341C311D4C005D8A73 /* github.学恶习 */ = {
+		18EF48571C311E0B005D8A73 /* github */ = {
 			isa = PBXGroup;
 			children = (
-				18EF48381C311D4C005D8A73 /* AppDelegate.h */,
-				18EF48391C311D4C005D8A73 /* AppDelegate.m */,
-				18EF483B1C311D4C005D8A73 /* ViewController.h */,
-				18EF483C1C311D4C005D8A73 /* ViewController.m */,
-				18EF483E1C311D4C005D8A73 /* Main.storyboard */,
-				18EF48411C311D4C005D8A73 /* Assets.xcassets */,
-				18EF48431C311D4C005D8A73 /* LaunchScreen.storyboard */,
-				18EF48461C311D4C005D8A73 /* Info.plist */,
-				18EF48351C311D4C005D8A73 /* Supporting Files */,
+				18EF485B1C311E0B005D8A73 /* AppDelegate.h */,
+				18EF485C1C311E0B005D8A73 /* AppDelegate.m */,
+				18EF485E1C311E0B005D8A73 /* ViewController.h */,
+				18EF485F1C311E0B005D8A73 /* ViewController.m */,
+				18EF48611C311E0B005D8A73 /* Main.storyboard */,
+				18EF48641C311E0B005D8A73 /* Assets.xcassets */,
+				18EF48661C311E0B005D8A73 /* LaunchScreen.storyboard */,
+				18EF48691C311E0B005D8A73 /* Info.plist */,
+				18EF48581C311E0B005D8A73 /* Supporting Files */,
 			);
-			path = "github.学恶习";
+			path = github;
 			sourceTree = "<group>";
 		};
-		18EF48351C311D4C005D8A73 /* Supporting Files */ = {
+		18EF48581C311E0B005D8A73 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				18EF48361C311D4C005D8A73 /* main.m */,
+				18EF48591C311E0B005D8A73 /* main.m */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -82,38 +82,38 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		18EF48311C311D4C005D8A73 /* github.学恶习 */ = {
+		18EF48541C311E0B005D8A73 /* github */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 18EF48491C311D4C005D8A73 /* Build configuration list for PBXNativeTarget "github.学恶习" */;
+			buildConfigurationList = 18EF486C1C311E0B005D8A73 /* Build configuration list for PBXNativeTarget "github" */;
 			buildPhases = (
-				18EF482E1C311D4C005D8A73 /* Sources */,
-				18EF482F1C311D4C005D8A73 /* Frameworks */,
-				18EF48301C311D4C005D8A73 /* Resources */,
+				18EF48511C311E0B005D8A73 /* Sources */,
+				18EF48521C311E0B005D8A73 /* Frameworks */,
+				18EF48531C311E0B005D8A73 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "github.学恶习";
-			productName = "github.学恶习";
-			productReference = 18EF48321C311D4C005D8A73 /* github.学恶习.app */;
+			name = github;
+			productName = github;
+			productReference = 18EF48551C311E0B005D8A73 /* github.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		18EF482A1C311D4C005D8A73 /* Project object */ = {
+		18EF484D1C311E0B005D8A73 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = lanou;
 				TargetAttributes = {
-					18EF48311C311D4C005D8A73 = {
+					18EF48541C311E0B005D8A73 = {
 						CreatedOnToolsVersion = 7.2;
 					};
 				};
 			};
-			buildConfigurationList = 18EF482D1C311D4C005D8A73 /* Build configuration list for PBXProject "github.学恶习" */;
+			buildConfigurationList = 18EF48501C311E0B005D8A73 /* Build configuration list for PBXProject "github" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -121,55 +121,55 @@
 				en,
 				Base,
 			);
-			mainGroup = 18EF48291C311D4C005D8A73;
-			productRefGroup = 18EF48331C311D4C005D8A73 /* Products */;
+			mainGroup = 18EF484C1C311E0B005D8A73;
+			productRefGroup = 18EF48561C311E0B005D8A73 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				18EF48311C311D4C005D8A73 /* github.学恶习 */,
+				18EF48541C311E0B005D8A73 /* github */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		18EF48301C311D4C005D8A73 /* Resources */ = {
+		18EF48531C311E0B005D8A73 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				18EF48451C311D4C005D8A73 /* LaunchScreen.storyboard in Resources */,
-				18EF48421C311D4C005D8A73 /* Assets.xcassets in Resources */,
-				18EF48401C311D4C005D8A73 /* Main.storyboard in Resources */,
+				18EF48681C311E0B005D8A73 /* LaunchScreen.storyboard in Resources */,
+				18EF48651C311E0B005D8A73 /* Assets.xcassets in Resources */,
+				18EF48631C311E0B005D8A73 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		18EF482E1C311D4C005D8A73 /* Sources */ = {
+		18EF48511C311E0B005D8A73 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				18EF483D1C311D4C005D8A73 /* ViewController.m in Sources */,
-				18EF483A1C311D4C005D8A73 /* AppDelegate.m in Sources */,
-				18EF48371C311D4C005D8A73 /* main.m in Sources */,
+				18EF48601C311E0B005D8A73 /* ViewController.m in Sources */,
+				18EF485D1C311E0B005D8A73 /* AppDelegate.m in Sources */,
+				18EF485A1C311E0B005D8A73 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		18EF483E1C311D4C005D8A73 /* Main.storyboard */ = {
+		18EF48611C311E0B005D8A73 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				18EF483F1C311D4C005D8A73 /* Base */,
+				18EF48621C311E0B005D8A73 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		18EF48431C311D4C005D8A73 /* LaunchScreen.storyboard */ = {
+		18EF48661C311E0B005D8A73 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				18EF48441C311D4C005D8A73 /* Base */,
+				18EF48671C311E0B005D8A73 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -177,7 +177,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		18EF48471C311D4C005D8A73 /* Debug */ = {
+		18EF486A1C311E0B005D8A73 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -220,7 +220,7 @@
 			};
 			name = Debug;
 		};
-		18EF48481C311D4C005D8A73 /* Release */ = {
+		18EF486B1C311E0B005D8A73 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -257,24 +257,24 @@
 			};
 			name = Release;
 		};
-		18EF484A1C311D4C005D8A73 /* Debug */ = {
+		18EF486D1C311E0B005D8A73 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = "github.学恶习/Info.plist";
+				INFOPLIST_FILE = github/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "---.github----";
+				PRODUCT_BUNDLE_IDENTIFIER = "---.github";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
 		};
-		18EF484B1C311D4C005D8A73 /* Release */ = {
+		18EF486E1C311E0B005D8A73 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = "github.学恶习/Info.plist";
+				INFOPLIST_FILE = github/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "---.github----";
+				PRODUCT_BUNDLE_IDENTIFIER = "---.github";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -282,24 +282,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		18EF482D1C311D4C005D8A73 /* Build configuration list for PBXProject "github.学恶习" */ = {
+		18EF48501C311E0B005D8A73 /* Build configuration list for PBXProject "github" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				18EF48471C311D4C005D8A73 /* Debug */,
-				18EF48481C311D4C005D8A73 /* Release */,
+				18EF486A1C311E0B005D8A73 /* Debug */,
+				18EF486B1C311E0B005D8A73 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		18EF48491C311D4C005D8A73 /* Build configuration list for PBXNativeTarget "github.学恶习" */ = {
+		18EF486C1C311E0B005D8A73 /* Build configuration list for PBXNativeTarget "github" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				18EF484A1C311D4C005D8A73 /* Debug */,
-				18EF484B1C311D4C005D8A73 /* Release */,
+				18EF486D1C311E0B005D8A73 /* Debug */,
+				18EF486E1C311E0B005D8A73 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 18EF482A1C311D4C005D8A73 /* Project object */;
+	rootObject = 18EF484D1C311E0B005D8A73 /* Project object */;
 }
